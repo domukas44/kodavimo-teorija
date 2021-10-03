@@ -1,0 +1,5 @@
+5 2 500
+vykdome pirma bandyma, ziurim kiek uztruks laiko. vykdome pirma bandyma
+testas pavyko ------------------------------------
+viskas gerai------------------------------------
+----------------------------------------------------------------
